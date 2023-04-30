@@ -1,0 +1,21 @@
+# Title:         List Win Hotfixes
+# Description:   Lists installed Hotfixes on a Windows Machine.
+# Author:        
+# Version:       0.9
+# Category:      
+# Target:        Windows 10,11 (CMD)
+# Attackmodes:   HID
+
+
+#######Stage 1 Open CMD AND Get Hotfixes#########
+
+REM Open cmd
+DELAY 2000
+GUI r
+DELAY 2000
+STRING cmd
+DELAY 500
+ENTER
+DELAY 500
+STRING wmic qfe
+ENTER
