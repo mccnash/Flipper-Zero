@@ -1,4 +1,4 @@
-# Title:         List Win Hotfixes and Warning Message            
+# Title:         List Win Hotfixes           
 # Description:   Lists installed Hotfixes on a Windows Machine.
 # Author:        
 # Version:       0.9
