@@ -13,4 +13,4 @@ list all installed hotfixes
 - Windows 11 <br>
 might be compatible with more Windows versions, but I haven't tested them. If you do test, let me know.
 <h2>Feedback</h2>
-comment below
+
